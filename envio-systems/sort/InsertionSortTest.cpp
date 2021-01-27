@@ -39,7 +39,7 @@ void insertionSort(int* array, int lenght)
 }  
   
 /**
- * @brief Prints the contents of an integer array.
+ * @brief Prints the content of an integer array.
  *
  * @param array The array to be sorted.
  * @param lenght The size of the byte array.
